@@ -1,0 +1,9 @@
+﻿{
+  "genesis_time": "2023-04-30T21:11:57.380428644Z",
+  "chain_id": "impay-testnet",
+  "initial_height": "1",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "22020096",
+      "max_gas": "0"
+    },
